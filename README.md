@@ -21,7 +21,7 @@ Smerekowiec, Gorlice, Ropa, Jasło, Magura Małastowska.<br>
 ';
 
 print '<TABLE CELLSPACING="0" BORDER="1" BGCOLOR="#FFD48E" BORDERCOLOR="#CC9966"><TR><TD ALIGN="CENTER" VALIGN="MIDDLE" width="170">';
-print $beskid_niski_l;
+print $beskid_niski_l; 
 print '</TD></TR></table><br>';
 ?>
 
