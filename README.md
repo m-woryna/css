@@ -8,5 +8,11 @@ Więcej o turystyce - pull down menu<br>
   Strony o turystyce - strony_turystyczne.php --> http://turystyka-atrakcje.pl/strony_turystyczne.php <br>
   Biura podróży - biura_podrozy.php -->  http://turystyka-atrakcje.pl/biura_podrozy.php <br>
   Przejazdy, przeloty, rejsy - przejazdy_przeloty.php -->  http://turystyka-atrakcje.pl/przejazdy_przeloty.php <br>
+# W3.CSS
+plik ciekawe_strony_ogloszenia.php
+# zastosowanie
+katalog stron agaleria.pl
+
+
 
 
